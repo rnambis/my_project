@@ -1,3 +1,4 @@
+#Just a test
 loc<-read.csv("/home/rohit/ALDA/HW1/locations.csv")[2:3]
 head(loc)
 p<-c(mean(loc[,2]),mean(loc[,1]))
